@@ -1,0 +1,9 @@
+channelID = "374290071186178050" 
+botToken = "Mzc0Mjk1MzIzNTExODgxNzI5.DNfNSg.8seUbdkPgAkj8P6WR46MLAPztkI"
+
+baseurl = "https://discordapp.com/api/channels/374290071186178050/messages"
+headers = { "Authorization":"Bot Mzc0Mjk1MzIzNTExODgxNzI5.DNfOeg.8Bl7YDqDhamtl2qs75m0rAQMqeY",
+"User-Agent":"Bom-Bychart-Bot#4295 (https://discordapp.com/developers/applications/me/374295323511881729, V.01)"
+"Content Type":"application/json", } 
+
+message = "Hello mates"
