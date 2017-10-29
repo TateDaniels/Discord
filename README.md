@@ -1,2 +1,2 @@
 # Discord
-For editing my Discord server
+This Respository is for editing my Discord server
